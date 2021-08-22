@@ -12,4 +12,4 @@ module.exports = knex
 //   })
 //   .then((data) => console.log(data))
 
-knex("users").then((resultado) => console.log(resultado))
+// knex("users").then((resultado) => console.log(resultado))
